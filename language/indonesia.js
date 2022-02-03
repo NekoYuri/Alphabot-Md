@@ -183,7 +183,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ ${prefix}ytsearch [query]
 ├ ${prefix}wallpaper [query]
 ├ ${prefix}wikimedia [query]
-├ ${prefix}hentai
+├ ${prefix}hentai 
 ├ ${prefix}wattpad [query]
 ├ ${prefix}webtoons [query]
 ├ ${prefix}drakor [query]
@@ -318,6 +318,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╰❒ ${prefix}cringe
 
 ╭─❒ 「 Nsfw & Sfw 」
+├ ❒「 Tobat Ngentod 」
 ├ ${prefix}ahegao
 ├ ${prefix}ass
 ├ ${prefix}bdsm
@@ -624,7 +625,7 @@ Sanksi: *PERMANENT BLOCK*
 ➡️ Script ini masih private dan tidak pernah diperjual belikan ,bijaklah dalam mengetahui penipu.
 
 🗯️ Boleh saya menambah ke grup?
-➡️ Untuk sementara bot dalam status free to add.
+➡️ Perlu Izin Owner
 
 🗯️ Prefixnya apa ya?
 ➡️ Bot ini menggunakan multi prefix. Berarti anda bisa menggunakan prefix #, . , Dan prefix wajar lainnya.
@@ -648,7 +649,11 @@ exports.welcome = () =>{
 ├ 𝖴𝗆𝗎𝗋 :
 ├ 𝖦𝖾𝗇𝖽𝖾𝗋 :
 ├ 𝖠𝗌𝗄𝗈𝗍 :
-╰❒ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
+├💗 Jan Lupa Follow IG Owner & Co Owner
+├✾https://www.instagram.com/ruka.nime7/ (Owner) 
+├✾https://www.instagram.com/kaede.id/ (Co Owner) 
+├✥Web Owner https://yuri-neko.github.io/
+╰❒╰ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 Onii-Chan,Onee-Chan~`
 }
 exports.leave = () =>{
 	return`Yah kok out 😣 Mental aman kan kak >.<
@@ -657,8 +662,9 @@ Goodbye`
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://github.com/zeeoneofc/Alphabot-Md
+Base : https://github.com/DikaArdnt/
+Recode : https://github.com/zeeoneofc/
+SC : Cek Yt ZeeonOfc
 `
 }
 exports.tos = (ownernomer) => {
@@ -921,6 +927,7 @@ exports.ranime = (prefix) =>{
 
 exports.nsfw = (prefix) =>{
 	return`╭─❒ 「 Nsfw & Sfw 」
+├─❒「 Susah Amat Tobat」
 ├ ${prefix}ahegao
 ├ ${prefix}ass
 ├ ${prefix}bdsm
